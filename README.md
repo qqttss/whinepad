@@ -6,7 +6,7 @@ The App contains components like button, forms, rating, and dialog. CSS modules 
 
 How to use it?
 
-1) Clone the ripo to your local drive.
+1) Clone the ripo to your local drive: git clone https://github.com/qqttss/whinepad.git
 
 2) Install yarn first: npm install -g yarnpkg
 
