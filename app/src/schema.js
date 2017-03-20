@@ -1,5 +1,3 @@
-/* @flow */
-
 import classification from './classification';
 
 export default [
