@@ -1,5 +1,3 @@
-/* @flow */
-
 export default {
   grapes: [
     'Baco Noir',
